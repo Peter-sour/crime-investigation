@@ -1,0 +1,18 @@
+CrimeInvestigationSystem/
+│
+├── src/
+│   ├── CrimeInvestigationSystem.java        // Main class + semua logic
+│   │
+│   └── model/                               // Entity classes aja
+│       ├── Detective.java
+│       ├── Case.java
+│       ├── Suspect.java
+│       ├── PrimarySuspect.java
+│       ├── SecondarySuspect.java
+│       ├── Evidence.java
+│       ├── PhysicalEvidence.java
+│       ├── DigitalEvidence.java
+│       └── Witness.java
+│
+├── README.md                                // Project info
+└── compile.bat                              // Compile script
